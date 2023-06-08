@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	worktree = C:/Users/cardo/OneDrive/Área de Trabalho/ANOTAÇÕES AULAS FACULDADE-20230522T172812Z-001/ANOTAÇÕES AULAS FACULDADE/ANOTAÇÕES/CIENCIA DE DADOS (PRESENCIAL)
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/AndNasci312/Estudando_Ciencia_de_dados2023.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
